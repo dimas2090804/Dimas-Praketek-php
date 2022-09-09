@@ -1,0 +1,55 @@
+
+
+
+RPL@DESKTOP-PHLHEFR c:\xampp
+# mysql -u root -p
+Enter password:
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 297
+Server version: 10.4.24-MariaDB mariadb.org binary distribution
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> use umkmponorogo;
+Database changed
+MariaDB [umkmponorogo]> create table departement(departement_id char(5) primary key, dep_name varchar(100));
+Query OK, 0 rows affected (0.038 sec)
+
+MariaDB [umkmponorogo]> create table karayawan(karyawan_id char(5), nama char(50), jenis_kelamin boolean, tgl_lahir date;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1MariaDB [umkmponorogo]> create table karayawan(karyawan_id char(5), nama char(50), jenis_kelamin boolean, tgl_lahir date, departement_id char(5), primary key(karyawan_id), foreign key (departement_id) references departement(departement_id));
+Query OK, 0 rows affected (0.029 sec)
+
+MariaDB [umkmponorogo]> insert into departement values ('KEU','Keuangan','PMS','Pemasaran'),('ADM','Admin');
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+MariaDB [umkmponorogo]> insert into departement values ('KEU','Keuangan'),('PMS','Pemasaran'),('ADM','Admin');
+Query OK, 3 rows affected (0.001 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+MariaDB [umkmponorogo]> insert into karyawan values ('2010001','Zulham','pria','1970-03-24','KEU');
+ERROR 1146 (42S02): Table 'umkmponorogo.karyawan' doesn't exist
+MariaDB [umkmponorogo]> insert into karyawan values ('2010001','Zulham','pria','1970-03-24','KEU');
+ERROR 1146 (42S02): Table 'umkmponorogo.karyawan' doesn't exist
+MariaDB [umkmponorogo]> insert into karyawan values ('2010001','Zulham','pria','1970-03-24','KEU');
+Query OK, 1 row affected, 2 warnings (0.002 sec)
+MariaDB [umkmponorogo]> insert into karyawan values ('2010002','Nurhayati','wanita','1990-09-13','PMS');
+ERROR 1062 (23000): Duplicate entry '20100' for key 'PRIMARY'
+MariaDB [umkmponorogo]> insert into karyawan values ('3010002','Nurhayati','wanita','1990-09-13','PMS');
+Query OK, 1 row affected, 2 warnings (0.001 sec)
+MariaDB [umkmponorogo]> exit
+Bye
+RPL@DESKTOP-PHLHEFR c:\xampp
+# use umkmponorogo;
+'use' is not recognized as an internal or external command,
+operable program or batch file.
+RPL@DESKTOP-PHLHEFR c:\xampp
+# mysql -u root -p
+Enter password:
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 344
+Server version: 10.4.24-MariaDB mariadb.org binary distribution
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+MariaDB [(none)]> use umkmponorogo;
+Database changed
+MariaDB [umkmponorogo]>

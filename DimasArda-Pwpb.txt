@@ -1,0 +1,114 @@
+                    TUGAS MERANGKUM PWPB
+
+Nama     : Dimas Arda Ardiansyah
+Kelas    : XIIRPL1
+No.Absen :07
+
+
+=>Pengertian Sistem Informasi
+  Sistem Informasi (SI) adalah kombinasi dari teknologi informasi dan aktivitas orang
+  yang menggunakan teknologi itu untuk mendukung operasi dan manajemen. Dalam arti
+  yang sangat luas, istilah sistem informasi yang sering digunakan merujuk kepada
+  interaksi antara orang, proses algoritmik, data, dan teknologi.
+
+     Sistem informasi adalah gabungan yang terorganisasi dari manusia, perangkat lunak,
+  perangkat keras, jaringan komunikasi dan sumber data dalam mengumpulkan,
+  mengubah, dan menyebarkan informasi dalam organisasi.
+    Sistem informasi adalah suatu sistem di dalam suatu organisasi yang mempertemukan
+  kebutuhan pengolahan transaksi harian, mendukung operasi, bersifat manajerial
+  kegiatan strategi dari suatu organisasi dan menyediakan pihak luar tertentu dengan
+  laporan-laporan yang diperlukan.
+     Sistem informasi adalah kumpulandari sub-sub sistem baik phisik maupun non phisik
+  yang saling berhubungan satu sama lain dan bekerja sama secara harmonis untuk
+  mencapai satu tujuan yaitu mengolah data menjadi informasi yang berguna.
+=>Konsep Dasar
+
+ Aristoteles dalam “The classical theory of concepts” menyatakan bahwa konsep
+ merupakan penyusun utama dalam pembentukan pengetahuan ilmiah dan filsafat
+ pemikiran manusia.Konsep merupakan abstraksi suatu ide atau gambaran mental,
+ yang dinyatakan dalam suatu kata atau simbol.
+=>Kemampuan utama SI mendukung sasaran bisnis, mencakup :
+- Peningkatan produktivitas
+- Pengurangan biaya
+- Peningkatan pengambilan keputusan
+- Peningkatan layanan pelanggan
+- Pengembangan aplikasi strategi yang baru.
+=>Pengembangan Sistem Informasi
+
+Pengembangan sistem informasi didefinisikan sebagai aktivitas untuk menghasilkan
+sistem informasi berbasis computer untuk menyelesaikan persoalan organisasi atau
+memanfaatkan kesempatan (oppurtinities) yang timbul.
+
+Sebenarnya untuk menghasilkan sistem informasi tersebut terdiri dari :
+1. System analisis : upaya mendapatkan gambaran bagaimana sistem bekerja dan
+masalah-masalah apa saja yang ada pada sistem.
+2. System development : langkah-langkah mengembangkan sistem informasi yang
+baru berdasarkan gambaran cara kerja sistem dan permasalahan yang ada
+
+Faktor pengembangan bisnis dimasa sekarang :
+1. Pengaruh ekonomi internasional dan persaingan dunia
+2. Perkembangan teknologi
+3. Batas waktu yang semakin singkat
+4. Kendala sosial.
+1. SI Tradisional (Dioperasikan dan dikelola secara semi-manual.)
+2. SI berbasis Komputer
+3. SI berbasis Jaringan Perkantoran
+4. SI Lintas Platform
+
+=>Sistem Informasi Korporasi
+
+Sistem Informasi Korporasi (SIK) atau Enterprise Resources Planning System (ERP
+System). adalah sistem informasi yang menggabungkan semua sistem kerja suatu
+perusahaan dalam satu sistem informasi yang terintegrasi.
+Manfaat yang dapat dipetik oleh perusahaan dengan pembangunan SI, antara lain :
+1. Integrasi data dan informasi
+2. Sistem pengorganisasian data memungkinkan sistem bebas redudansi data
+3. Meningkatkan kecepatan dan keakuratan penyusunan laporan manajerial
+4. Meningkatkan kualitas produk dan kecepatan layanan konsumen
+5. Meningkatkan citra perusahaan
+
+=>Klasifikasi Sistem Informasi
+
+Klasifikasi yang umum dipakai antara lain didasarkan pada :
+- Level organisasi
+- Area fungsional
+- Dukungan yang diberikan
+- Arsitektur SI
+
+=>SI Menurut Level Organisasi
+Dikelompokan Menjadi :
+- SI departemen, hanya digunakan dalam sebuah departemen. Misal : departemen
+SDM yang memiliki sejumlah program/ aplikasi.
+- SI perusahaan, sistem terpadu yang dapat dipakai oleh sejumlah departemen
+secara bersama. Misal : SI PT mengintegrasikan bagian pengajaran, keuangan
+dan kemahasiswaan.
+- SI antar organisasi, jenis SI yang menghubungkan dua organisasi atau lebih.
+Misal : IBM + Apple + Motorola VS Intel untuk pasar CPU (disebut PowerPC).
+Model IOS banyak diimplementasikan dalam perdagangan elektronis (e-
+Commerce), sering dikenal dengan istilah B2B.
+
+=>Klasifikasi menurut Aktivitas Manajemen
+
+Menurut Ebert dan Griffin, 2003
+ 1. SI Pengetahuan : SI yang mendukung aktivitas pekerja berpengetahuan.
+   Kategori ini : ES dan OAS
+ 2. SI Operasional : berurusan dengan operasi organisasi sehari-hari. Kategori ini :
+  TPS, SIM, DSS.
+ 3. SI Manajerial : menunjang kegiatan manajerial. Menyediakan (Turban, McLean
+   dan Wetherbe, 1999) :
+- Ringkasan statistik
+- Laporan perkecualian
+- Laporan periodis dan ad hoc report
+- Analisis perbandingan : kompetitor, kinerja masa lalu, standar industri
+- Proyeksi : kas, pangsa pasar, penjualan
+- Pendeteksian masalah secara dini
+- Keputusan rutin
+- Hubungan antar manajer.
+ 4.SI strategis : digunakan untuk menangani masalah strategis dalam organisasi.
+
+Klasifikasi menurut Aktivitas Manajemen
+
+Dibedakan menjadi 3 jenis, yaitu :
+- Sistem berbasis mainframe
+- Sistem PC tunggal
+- Sistem tersebar atau sistem komputasi jaringan
